@@ -1,6 +1,6 @@
 # 👋 Assalomu alaykum, men Muhammadiso
 
-### 💻 Backend Developer | 🚀 Fullstack yo`nalishida
+### 💻 NodeJs + ReactJs | 🚀 Fullstack yo`nalishida
 
 - 🌱 Hozirda **NestJS, TypeScript, PostgreSQL** bilan ishlayapman  
 - 🤖 Telegram botlar yasashni yoqtiraman  
