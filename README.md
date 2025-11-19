@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200"/>
-</p>
-
 <h1 align="center">👋 Assalomu alaykum! Men <strong>Muhammadiso</strong></h1>
 <h3 align="center">💻 Fullstack Developer — Node.js | NestJS | React | TypeScript</h3>
 
