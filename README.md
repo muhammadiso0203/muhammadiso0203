@@ -1,38 +1,55 @@
-# 👋 Assalomu alaykum, men Muhammadiso
-
-### 💻 NodeJs + ReactJs | 🚀 Fullstack yo`nalishida
-
-- 🌱 Hozirda **NestJS, TypeScript, PostgreSQL** bilan ishlayapman  
-- 🤖 Telegram botlar yasashni yoqtiraman  
-- 📚 O‘rganayotgan texnologiyalar: **React, Next.js**  
-- ⚡ Qiziqishlarim: Open Source, AI, Web Security  
+# Hi there 👋 I'm **Muhammad Iso**  
+**Full-stack JavaScript / TypeScript Developer**  
+_I build web apps & Telegram bots using NestJS, React, PostgreSQL, and more._
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 About Me  
+Hi jo‘ra! I’m a passionate software developer based in Uzbekistan. I specialise in building robust backend systems with NestJS and PostgreSQL, and enjoy creating interactive front-ends with React.  
+I also love building Telegram bots and exploring Open Source, AI, and web security.  
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+Currently, I’m deepening my experience in **Next.js**, **GraphQL**, and scaling Node.js apps for production.
 
 ---
 
-## 📊 Statistikam
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadiso0203&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadiso0203&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadiso0203&theme=radical)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadiso0203&theme=react-dark)
+## 🔧 Tech Stack  
+| Backend | Frontend | Database | Tools & DevOps |
+|---------|----------|----------|---------------|
+| Node.js • NestJS • TypeScript | React • Next.js | PostgreSQL • MongoDB | Git • Docker • CI/CD |
 
 ---
 
-## 📫 Bog‘lanish
+## 🚀 Selected Projects  
+### 1. [Parking Car System](link-to-repo)  
+Built with NestJS, Express, MongoDB, JWT authentication. Users can register, book parking slots; admin panel included.
 
+### 2. [Online Course Platform](link-to-repo)  
+Mini platform for course sales: user registration/login with JWT, admin section, course listing & enrollment, email confirmation, logging & stats.
+
+### 3. [Trikotaj Ish Faoliyatini Hisoblash Platformasi](link-to-repo)  
+Clothing manufacturing activity tracking: admin defines items, users log sewing quantity, system calculates total price; built with NestJS + PostgreSQL.
+
+### 4. [Telegram Bot - Qur’an & Hadith](link-to-repo)  
+Telegram bot built with NestJS & TypeScript. Manages admins, Hadiths, Zikrs, Books, tracking with inline keyboards and admin panel (PostgreSQL backend).
+
+Feel free to check out my other repos for more experiments and prototypes.
+
+---
+
+## 💡 What I’m Learning & Interested In  
+- Serverless architectures (AWS Lambda, Google Cloud Functions)  
+- GraphQL & Apollo Server  
+- AI/ML integration into web apps  
+- Web application security: OWASP, JWT best practices, secure CI/CD pipelines  
+
+---
+
+## 📫 Let’s Connect  
 - Telegram: [@Muhammadiso](https://t.me/Muhammadiso)  
-- Email: muhammadiso0203@gmail.com    
+- Email: muhammadiso0203@gmail.com  
+- GitHub: [muhammadiso0203](https://github.com/muhammadiso0203)  
 
+---
+
+Thanks for stopping by! 👋  
+I’m always open to new collaborations & challenges — **let’s build something great together**.
