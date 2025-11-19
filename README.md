@@ -31,27 +31,7 @@
 
 ---
 
-## 📂 Yaqinda Qilgan Loyihalarim
 
-### 1️⃣ Parking Car System
-- NestJS + Express + MongoDB  
-- Foydalanuvchi ro‘yxatdan o‘tishi, parking slot bron qilish  
-- Admin panel bilan boshqarish  
-[Repo Link](https://github.com/muhammadiso0203)  
-
-### 2️⃣ Online Course Platform
-- JWT bilan user authentication  
-- Admin tomonidan kurs qo‘shish, o‘chirish  
-- Kurslar ro‘yxati va enrollment tizimi  
-[Repo Link](https://github.com/muhammadiso0203)  
-
-### 3️⃣ Trikotaj Ish Faoliyatini Hisoblash
-- Foydalanuvchi inputlari orqali ishlab chiqarish hisob-kitobi  
-- Admin mahsulotlarni boshqaradi, foydalanuvchi hisob-kitobni ko‘radi  
-- NestJS + PostgreSQL  
-[Repo Link](https://github.com/muhammadiso0203)
-
----
 
 ## 📈 GitHub Stats
 
