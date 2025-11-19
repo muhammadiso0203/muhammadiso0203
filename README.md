@@ -1,55 +1,81 @@
-# Hi there 👋 I'm **Muhammad Iso**  
-**Full-stack JavaScript / TypeScript Developer**  
-_I build web apps & Telegram bots using NestJS, React, PostgreSQL, and more._
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200"/>
+</p>
+
+<h1 align="center">👋 Assalomu alaykum! Men <strong>Muhammadiso</strong></h1>
+<h3 align="center">💻 Fullstack Developer — Node.js | NestJS | React | TypeScript</h3>
+
+<p align="center">
+  Telegram botlar, backend xizmatlar va veb-ilovalar yaratishni yaxshi ko‘raman. Har kuni yangi texnologiya o‘rganib, real loyihalar yaratishga intilaman.
+</p>
 
 ---
 
-## 🧑‍💻 About Me  
-Hi jo‘ra! I’m a passionate software developer based in Uzbekistan. I specialise in building robust backend systems with NestJS and PostgreSQL, and enjoy creating interactive front-ends with React.  
-I also love building Telegram bots and exploring Open Source, AI, and web security.  
+## 🛠️ Tech Stack
 
-Currently, I’m deepening my experience in **Next.js**, **GraphQL**, and scaling Node.js apps for production.
-
----
-
-## 🔧 Tech Stack  
-| Backend | Frontend | Database | Tools & DevOps |
-|---------|----------|----------|---------------|
-| Node.js • NestJS • TypeScript | React • Next.js | PostgreSQL • MongoDB | Git • Docker • CI/CD |
-
----
-
-## 🚀 Selected Projects  
-### 1. [Parking Car System](link-to-repo)  
-Built with NestJS, Express, MongoDB, JWT authentication. Users can register, book parking slots; admin panel included.
-
-### 2. [Online Course Platform](link-to-repo)  
-Mini platform for course sales: user registration/login with JWT, admin section, course listing & enrollment, email confirmation, logging & stats.
-
-### 3. [Trikotaj Ish Faoliyatini Hisoblash Platformasi](link-to-repo)  
-Clothing manufacturing activity tracking: admin defines items, users log sewing quantity, system calculates total price; built with NestJS + PostgreSQL.
-
-### 4. [Telegram Bot - Qur’an & Hadith](link-to-repo)  
-Telegram bot built with NestJS & TypeScript. Manages admins, Hadiths, Zikrs, Books, tracking with inline keyboards and admin panel (PostgreSQL backend).
-
-Feel free to check out my other repos for more experiments and prototypes.
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
-## 💡 What I’m Learning & Interested In  
-- Serverless architectures (AWS Lambda, Google Cloud Functions)  
-- GraphQL & Apollo Server  
-- AI/ML integration into web apps  
-- Web application security: OWASP, JWT best practices, secure CI/CD pipelines  
+## 🔥 Asosiy Yo‘nalishlarim
+
+- 🤖 Telegram botlar ishlab chiqish  
+- 🛠 Backend API’lar (NestJS / Node.js)  
+- 🗄 Ma’lumotlar bazasi bilan ishlash (PostgreSQL / MongoDB)  
+- 🌐 Frontend (React / Next.js / TailwindCSS)  
+- ⚡ Real loyihalar yaratish va o‘rganish
 
 ---
 
-## 📫 Let’s Connect  
-- Telegram: [@Muhammadiso](https://t.me/Muhammadiso)  
-- Email: muhammadiso0203@gmail.com  
-- GitHub: [muhammadiso0203](https://github.com/muhammadiso0203)  
+## 📂 Yaqinda Qilgan Loyihalarim
+
+### 1️⃣ Parking Car System
+- NestJS + Express + MongoDB  
+- Foydalanuvchi ro‘yxatdan o‘tishi, parking slot bron qilish  
+- Admin panel bilan boshqarish  
+[Repo Link](https://github.com/muhammadiso0203)  
+
+### 2️⃣ Online Course Platform
+- JWT bilan user authentication  
+- Admin tomonidan kurs qo‘shish, o‘chirish  
+- Kurslar ro‘yxati va enrollment tizimi  
+[Repo Link](https://github.com/muhammadiso0203)  
+
+### 3️⃣ Trikotaj Ish Faoliyatini Hisoblash
+- Foydalanuvchi inputlari orqali ishlab chiqarish hisob-kitobi  
+- Admin mahsulotlarni boshqaradi, foydalanuvchi hisob-kitobni ko‘radi  
+- NestJS + PostgreSQL  
+[Repo Link](https://github.com/muhammadiso0203)
 
 ---
 
-Thanks for stopping by! 👋  
-I’m always open to new collaborations & challenges — **let’s build something great together**.
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadiso0203&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadiso0203&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📬 Aloqa
+
+<p align="center">
+  <a href="https://t.me/Muhammadiso"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:muhammadiso0203@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  Thanks for visiting! 👋  
+  I’m always open to collaborations and new challenges. Let’s build something great together!
+</p>
